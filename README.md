@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# ANT SMASHING: THE GAME 
 
-DO NOT LEAVE IT LIKE THIS!!!
+Ants are invading your home. Every time you smash them there's more of them. Oh god. They're coming. They just keep coming.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Cursor and left click; high score is saved through properties
